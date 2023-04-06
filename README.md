@@ -45,7 +45,7 @@ admin.site.register(User,UserAdmin)
 ```
 ## OUTPUT
 
-/home/sec/Pictures/Screenshots/ex2.png
+![ex02](https://user-images.githubusercontent.com/121300272/230259916-ed7771a1-df27-4c43-ab5d-b7caea261d91.png)
 
 
 ## RESULT
